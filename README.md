@@ -49,7 +49,6 @@ Ensure that a MySQL database named `physio-equip_surgical` is created, and that 
 ![image](https://github.com/user-attachments/assets/db97fb66-c13e-4567-9682-17def5f83289)
 
 ## Results
-![image](https://github.com/user-attachments/assets/e455c7c4-4f86-4b5b-adf3-4a9654affe7b)
 ![image](https://github.com/user-attachments/assets/b4b6365a-b666-4185-a0a8-3f0591af342f)
 ![image](https://github.com/user-attachments/assets/14a43949-12a8-47ad-a58d-46cce5054725)
 ![image](https://github.com/user-attachments/assets/99350390-e609-401c-8cda-c8ce1c09a9da)
