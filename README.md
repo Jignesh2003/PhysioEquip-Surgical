@@ -45,6 +45,20 @@ Ensure that a MySQL database named `physio-equip_surgical` is created, and that 
 - **Purchase/Lease**: Choose quantity, then click “Buy Product” or “Product on Leased”.
 - **Generate Bill**: Bill will appear in `DisplayBillFrame`, finish to return to Home.
 
+## UseCase Diagram
+![image](https://github.com/user-attachments/assets/db97fb66-c13e-4567-9682-17def5f83289)
+
+## Results
+![image](https://github.com/user-attachments/assets/e455c7c4-4f86-4b5b-adf3-4a9654affe7b)
+![image](https://github.com/user-attachments/assets/b4b6365a-b666-4185-a0a8-3f0591af342f)
+![image](https://github.com/user-attachments/assets/14a43949-12a8-47ad-a58d-46cce5054725)
+![image](https://github.com/user-attachments/assets/99350390-e609-401c-8cda-c8ce1c09a9da)
+![image](https://github.com/user-attachments/assets/1c432f03-7783-421f-bd90-490f4b315817)
+![image](https://github.com/user-attachments/assets/df7cf619-5fec-4647-a31a-ff32cfde81f4)
+![image](https://github.com/user-attachments/assets/ae2bee2f-5545-459a-8c88-bbb5e39a5bab)
+![image](https://github.com/user-attachments/assets/7d627dad-c525-4ef2-b8bb-bc0b7d87eaaf)
+
+
 ## 📧 Author
 
 **Jignesh Rana**  
